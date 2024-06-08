@@ -1,4 +1,4 @@
-# Cyber-Kill-Chain
+# Network-Traffic-Analysis
 
 Created a payload using msfvenom. (Weaponization) 
 <img width="1440" alt="Createpayload" src="https://github.com/colejam/Network-Traffic-Analysis/assets/163930716/3ba5228a-7070-4a5d-be1c-b93c627fb837">
